@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A7C858AA-0ADA-4C34-BF84-09A14730E6DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7F0946C1-1440-4FF6-BA85-2ACF90A30189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikToStrawberryShake", "TelerikToStrawberryShake\TelerikToStrawberryShake.csproj", "{148BC300-A20A-4021-B75B-6378EEA689D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikToStrawberryShake.Test", "TelerikToStrawberryShake.Test\TelerikToStrawberryShake.Test.csproj", "{8B1D0F59-0F3B-4AB4-9B8E-A17F9D5213EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{148BC300-A20A-4021-B75B-6378EEA689D2} = {A7C858AA-0ADA-4C34-BF84-09A14730E6DC}
+		{8B1D0F59-0F3B-4AB4-9B8E-A17F9D5213EF} = {7F0946C1-1440-4FF6-BA85-2ACF90A30189}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148BC300-A20A-4021-B75B-6378EEA689D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148BC300-A20A-4021-B75B-6378EEA689D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148BC300-A20A-4021-B75B-6378EEA689D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148BC300-A20A-4021-B75B-6378EEA689D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1D0F59-0F3B-4AB4-9B8E-A17F9D5213EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1D0F59-0F3B-4AB4-9B8E-A17F9D5213EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1D0F59-0F3B-4AB4-9B8E-A17F9D5213EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1D0F59-0F3B-4AB4-9B8E-A17F9D5213EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

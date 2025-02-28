@@ -398,3 +398,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/
+global.json
+
+# GraphQL Generator
+**/Generated/*
+
+# Reqnroll
+*.feature.cs
